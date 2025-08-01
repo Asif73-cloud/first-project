@@ -1,9 +1,7 @@
 public class E1{
     public static void main(String[] args){
 
-        System.out.println("Hello");
-        System.out.println("Java programing ");
-        System.out.println("Amran Hossain");
+         System.out.println("Nur jahan Akter ");
             
     }
 }
